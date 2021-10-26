@@ -20,7 +20,7 @@ namespace Generator
                 {
                     var number = random.Next(1, 100);
 
-                    if (number < 50)
+                    if (number < 60)
                     {
                         Console.WriteLine("App thinks that you have already eaten enough cake for today!");
                     }
