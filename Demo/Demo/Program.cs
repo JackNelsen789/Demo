@@ -4,7 +4,7 @@ namespace Generator
 {
     class Program
     {
-        const string stopKey = "n";
+        const string stopKey = "not";
         static readonly Random random = new();
 
         static void Main(string[] args)
